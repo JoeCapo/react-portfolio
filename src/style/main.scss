@@ -26,3 +26,21 @@ body {
     display: grid;
     justify-items: center;
 }
+.navigation {
+    margin-top: 2rem;
+    display: flex;
+    gap: 1rem;
+}
+
+.navigation a {
+    text-decoration: none;
+    color: #333;
+    font-size: 1.6rem;
+}
+
+.page {
+    margin-top: 2rem;
+    font-size: 1.6rem;
+    max-width: 600px;
+    text-align: center;
+}
